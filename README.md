@@ -1,0 +1,2 @@
+# cub
+Ordinal outcome model estimated by a mixture of a Uniform and a shifted Binomial Use cub With STATA 19
