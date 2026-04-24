@@ -1,6 +1,8 @@
 # cub
 Ordinal outcome model estimated by a mixture of a Uniform and a shifted Binomial Use cub With STATA 19
 
+https://www.youtube.com/watch?v=1X9Jc9aBScw
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
